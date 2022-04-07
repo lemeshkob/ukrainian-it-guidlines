@@ -1,7 +1,4 @@
 # DevOps
-__
-https://roadmap.sh/devops
-__
 
 1. Learn a Programming Language
 2. Understand different OS Concepts
@@ -29,3 +26,5 @@ __
 	- Logs Management
 9. Cloud Providers
 10. Cloud Design Patterns
+
+https://roadmap.sh/devops

@@ -28,6 +28,3 @@
 	- Управління логами
 9. [Хмарні провайдери](docs/devops/cloud-providers.md)
 10. [Шаблони хмарного дизайну](docs/devops/cloud-design-patterns.md)
-
-
-Розроблено, посилаючись на **[roadmaps](https://roadmap.sh/devops)**
