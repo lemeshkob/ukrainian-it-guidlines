@@ -8,13 +8,13 @@
 ## Інструменти
 Термінали різних операційних систем (далі ОС) відрізняються одна від одної.
 ### MacOS
-![MacOS Terminal](images/mac_terminal.jpeg)
+![MacOS Terminal](/assets/images/global/os/mac_terminal.jpeg)
 Для того, щоб відкрити термінал введіть «Terminal» в інструмент Spotlight (⌘(Command) + пробіл або клацніть збільшувальне скло у верхньому правому куті).
 ### Windows
-![Powershell](images/powershell.png)
+![Powershell](/assets/images/global/os/powershell.png)
 Для використання всіх команд терміналу потрібно завантажити PowerShell zip архів [тут](https://github.com/PowerShell/PowerShell/releases/download/v7.2.2/PowerShell-7.2.2-win-x64.zip). Для встановлення потрібно розпакувати zip-архів та запустити `pwsh.exe`.
 ### Linux
-![Linux Terminal](images/linux_terminal.png)
+![Linux Terminal](/assets/images/global/os/linux_terminal.png)
 Більшість дистрибутивів Linux надають відразу декілька терміналів: gnome-terminal, konsole, xterm, rxvt, kvt, nxterm, eterm. Не потрібно нічого завантажувати, просто прочитайте довідкову документацію для вашого дистрибутива, щоб побачити, який із них включено.
 
 Для більш детального ознайомлення з командами термінала рекомендуємо прочитати [документацію](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
