@@ -20,6 +20,6 @@
 - C#
 
 ## Хочеш допомогти?
-Пиши до [власника репо](mailto:lemeshkob@gmail.com) або до [координатора проекту](mailto:y.anton.ua@gmail.com)
+Пиши до власника репо - [lemeshkob@gmail.com](mailto:lemeshkob@gmail.com) або до координатора проекту - [y.anton.ua@gmail.com](mailto:y.anton.ua@gmail.com)
 
-### Правила та гайд щодо спільої роботи (contribution) - [тут](docs/howto/contribution.md)
+### Правила та гайд щодо спільої роботи (contribution) - [тут](docs/howto/contribution.md)  
