@@ -1,6 +1,6 @@
 # CSS
 
-CSS or Cascading Style Sheets is the language used to style the frontend of any website. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+CSS або каскадні таблиці стилів — це мова, яка використовується для оформлення інтерфейсу будь-якого веб-сайту. CSS є важливою технологією всесвітньої мережі, поряд з HTML і JavaScript.
 
 ## Основні теми
 - [Основи CSS](#)
