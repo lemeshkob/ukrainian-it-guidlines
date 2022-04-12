@@ -2,4 +2,13 @@
 
 ## Що таке і як налаштувати ...
 
-*Тема буде готова найблищим часом, слідкуйте...*
+### Основні теми
+
+  - TODO: Reverse Proxy
+  - TODO: Caching Server
+  - TODO: Forward Proxy
+  - TODO: Load Balancer
+  - TODO: Firewall
+  - TODO: Web Server
+
+_Тема буде готова найблищим часом, слідкуйте..._
