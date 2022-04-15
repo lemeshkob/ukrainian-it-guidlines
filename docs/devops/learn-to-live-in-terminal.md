@@ -1,6 +1,6 @@
 [<-- Повернутись назад](learn-about-managing-servers.md)
 
-### Вчення про Термнал
+### Вчення про Термінал
 
 ### Основні теми
   - TODO: Bash Scripting
