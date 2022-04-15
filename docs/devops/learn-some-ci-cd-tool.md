@@ -2,4 +2,14 @@
 
 ## Вивчіть деякі інструменти CI/CD
 
-> Інформацію для статті було взято та перекладено на українську з сайту [ ](). Оригінал статті за посиланням - 
+### Основні теми
+  - TODO: GitLab CI
+  - TODO: GitHub Actions
+  - TODO: Bamboo
+  - TODO: Jenkins
+  - TODO: Azure DevOps
+  - TODO: Travis CI
+  - TODO: TeamCity
+  - TODO: Circle CI
+
+*Тема буде готова найблищим часом, слідкуйте...*

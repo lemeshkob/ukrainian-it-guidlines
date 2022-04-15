@@ -1,14 +1,12 @@
 [<-- Повернутись назад](../../README.md)
 # DevOps
-
-### Текстова навігація
 1. [Вивчіть мову програмування](learn-a-programming-language.md)
 2. [Зрозумійте різні концепції ОС](understand-different-os-concepts.md)
-3. [Дізнайтеся про керування серверами](learn-about-managing-servers.md)
-4. [Мережа, безпека та протоколи](networking-security-and-protocols.md)
-5. [Що таке і як налаштувати ....](what-is-and-how-to-setup-a.md)
-6. [Вивчіть інфраструктуру як код](learn-infrastructure-as-code.md)
-7. [Вивчіть деякі інструменти CI/CD](devops/learn-some-ci-cd-tool.md)
-8. [Дізнайтеся, як контролювати програмне забезпечення та інфраструктуру](learn-how-to-monitor-software-and-infrastructure.md)
-9. [Хмарні провайдери](cloud-providers.md)
-10. [Шаблони хмарного дизайну](cloud-design-patterns.md)
+3. TODO: Дізнайтеся про керування серверами
+4. TODO: Мережа, безпека та протоколи
+5. TODO: Що таке і як налаштувати ....
+6. TODO: Вивчіть інфраструктуру як код
+7. TODO: Вивчіть деякі інструменти CI/CD
+8. TODO: Дізнайтеся, як контролювати програмне забезпечення та інфраструктуру
+9. TODO: Хмарні провайдери
+10. TODO: Шаблони хмарного дизайну
