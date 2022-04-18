@@ -2,8 +2,8 @@
 # Front-end
 
 1. [Інтернет](../global/internet.md)
-2. [HTML](html.md)
-3. [CSS](css.md)
+2. [HTML](html/index.md)
+3. [CSS](css/index.md)
 4. [JavaScript]()
 5. [Системи контролю версій]()
 6. [Основи веб безпеки]()
