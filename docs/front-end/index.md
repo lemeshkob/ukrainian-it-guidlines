@@ -4,7 +4,7 @@
 1. [Інтернет](../global/internet.md)
 2. [HTML](html/index.md)
 3. [CSS](css/index.md)
-4. [JavaScript](js/index.md)
+4. TODO: JavaScript
 5. TODO GLOBAL: Системи контролю версій
 6. TODO: Основи веб безпеки
 7. TODO: Пакетні менеджери
