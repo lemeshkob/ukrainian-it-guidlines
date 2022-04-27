@@ -1,4 +1,4 @@
-[<-- Повернутись назад](learn-how-to-monitor-software-and-infrastructure.md)
+[<-- Повернутись назад](index.md)
 
 ### Моніторинг інфраструктури
 

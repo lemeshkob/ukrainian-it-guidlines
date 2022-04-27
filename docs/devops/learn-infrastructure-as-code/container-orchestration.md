@@ -1,14 +1,11 @@
 [<-- Повернутись назад](index.md)
 
-## Хмарні провайдери
+### Оркестрація контейнерів
 
 ### Основні теми
-  - TODO: AWS
-  - TODO: Google Cloud
-  - TODO: Azure
-  - TODO: Heroku
-  - TODO: Digital Ocean
-  - TODO: Linode
-  - TODO: Vultr
+  - TODO: Kubernets
+  - TODO: Mesos
+  - TODO: Docker Swarm
+  - TODO: Nomad
 
 *Тема буде готова найблищим часом, слідкуйте...*

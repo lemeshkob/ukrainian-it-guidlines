@@ -1,4 +1,4 @@
-[<-- Повернутись назад](learn-infrastructure-as-code.md)
+[<-- Повернутись назад](index.md)
 
 ### Контейнери
 

@@ -1,7 +1,7 @@
 [<-- Повернутись назад](../../README.md)
 # DevOps
-1. [Вивчіть мову програмування](learn-a-programming-language.md)
-2. [Зрозумійте різні концепції ОС](understand-different-os-concepts.md)
+1. [Вивчіть мову програмування](../devops/learn-a-programming-language/index.md)
+2. [Зрозумійте різні концепції ОС](../devops/understand-different-os-concepts/index.md)
 3. TODO: Дізнайтеся про керування серверами
 4. TODO: Мережа, безпека та протоколи
 5. TODO: Що таке і як налаштувати ....
